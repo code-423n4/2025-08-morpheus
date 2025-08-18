@@ -23,7 +23,9 @@
 2. A coded, runnable PoC is required for all High/Medium submissions to this audit.
 
 - This repo includes a basic template to run the test suite.
-- PoCs must use the test suite provided in this repo.
+- It is preferable to submit your PoC in Hardhat, using the test suite provided in the audit repo. 
+- Foundry PoCs will only be accepted if you provide instructions to run it **within the existing test suite.**
+- Please check your formatting to ensure that it runs properly.
 - Your submission will be marked as Insufficient if the POC is not runnable and working with the provided test suite.
 - Exception: PoC is optional (though recommended) for wardens with signal ≥ 0.68.
 
